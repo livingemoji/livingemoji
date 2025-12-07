@@ -42,6 +42,7 @@ I enjoy working end-to-end — from **data collection, cleaning, modeling, backe
 ---
 
 ###📌 **Quantium Data Analysis & Visualization Starter Repo**
+
 **Repo:** https://github.com/livingemoji/quantium-starter-repo
 - Analyzes the impact of a price change on "Pink Morsel" product sales
 - Visualizes daily sales trends using an interactive Dash web application
