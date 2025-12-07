@@ -41,6 +41,15 @@ I enjoy working end-to-end — from **data collection, cleaning, modeling, backe
 
 ---
 
+###📌 **Quantium Data Analysis & Visualization Starter Repo**
+**Repo:** https://github.com/livingemoji/quantium-starter-repo
+- Analyzes the impact of a price change on "Pink Morsel" product sales
+- Visualizes daily sales trends using an interactive Dash web application
+- Key Insight: Determines if revenue increased or decreased after the price hike on January 15, 2021
+- Tools: Python, pandas, Dash, Plotly, pytest
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -53,7 +62,7 @@ pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Power BI, T
 Node.js, Express.js, React, Java (Spring Boot), REST APIs, Docker, Git/GitHub
 
 ### **Tools & Other Skills**
-Jupyter Notebook, Google Colab, Linux, Bash scripting, API integrations, system troubleshooting
+Jupyter Notebook, Google Colab, Linux, Bash scripting, API integrations, system troubleshooting, Dash
 
 ---
 
