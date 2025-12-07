@@ -57,7 +57,7 @@ I enjoy working end-to-end — from **data collection, cleaning, modeling, backe
 Python, JavaScript, Java, SQL
 
 ### **Machine Learning & Data**
-pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Power BI, Tableau
+pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Power BI
 
 ### **Software Engineering**
 Node.js, Express.js, React, Java (Spring Boot), REST APIs, Docker, Git/GitHub
