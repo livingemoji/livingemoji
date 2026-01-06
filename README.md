@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alex Wanyonyi  
 ### 🚀 Data Scientist | Machine Learning Practitioner | Software Engineer  
 
-I'm a passionate **Data Scientist and Software Engineer** who loves building intelligent systems, solving real-world problems, and turning raw data into meaningful insights.  
-I enjoy working end-to-end — from **data collection, cleaning, modeling, backend engineering, and deployment**, all the way to visualization and reporting.
+Hello there , Am  **Alex (livingemoji) ** a guy who fell in love of building intelligent systems, solving real-world problems, and turning raw data into meaningful insights.  
+
 
 ---
 
