@@ -1,85 +1,37 @@
-# 👋 Hi, I'm Alex Wanyonyi  
-### 🚀 Data Scientist | Machine Learning Practitioner | Software Engineer  
+<h1 align="center">Hi 👋, I'm Wanyonyi Alex Wafula</h1>
+<h3 align="center">A passionate Techie from Kenya.</h3>
 
-Hello there , Am  **Alex (livingemoji) ** a guy who fell in love of building intelligent systems, solving real-world problems, and turning raw data into meaningful insights.  
+<p align="left"> <a href="https://twitter.com/emoji_living" target="blank"><img src="https://img.shields.io/twitter/follow/emoji_living?logo=twitter&style=for-the-badge" alt="emoji_living" /></a> </p>
 
+- 🔭 I’m currently working on [Football Machine learning model](https://github.com/livingemoji/ballon-dor-predictor)
 
----
+- 🌱 I’m currently learning **Power Bi data visualization**
 
-## 🧠 What I Do
-- 🔍 Build **machine learning models** and predictive systems  
-- 📊 Perform **data analysis, visualization, and automation**  
-- 🤖 Develop **AI-powered applications** using Python and OpenCV  
-- 🛠️ Build **backend systems and APIs** with Node.js, Express.js, and Java  
-- 🧩 Solve complex problems using algorithms, data structures, and clean code  
+- 👯 I’m looking to collaborate on [Fintech App](https://github.com/livingemoji/zedi.git)
 
----
+- 👨‍💻 All of my projects are available at [https://xander-zeta.vercel.app/](https://xander-zeta.vercel.app/)
 
-## 🔥 Featured Projects
+- 💬 Ask me about **Java script , Python.**
 
-### 📌 **Customer Churn Prediction (ML Model)**  
-**Repo:** https://github.com/livingemoji/churn  
-- Achieved **82%+ accuracy** predicting customer churn  
-- Feature engineering, model tuning & full EDA  
-- Tools: Python, pandas, NumPy, scikit-learn
+- 📫 How to reach me **wafulalex4@gmail.com**
 
----
+- 📄 Know about my experiences [https://xander-zeta.vercel.app/images/WANYONYI%20ALEX%20WAFULA.pdf](https://xander-zeta.vercel.app/images/WANYONYI%20ALEX%20WAFULA.pdf)
 
-### 📌 **AI-Driven Workforce Productivity & Operations Insight System**  
-**Repo:** https://github.com/livingemoji/productivity  
-- ML-driven insights on workforce performance  
-- Anomaly detection, trend analysis, visualization  
-- Tools: Python, pandas, matplotlib, plotly
+- ⚡ Fun fact **I can do all things using AI**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/emoji_living" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emoji_living" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wafulalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafulalex" height="30" width="40" /></a>
+<a href="https://fb.com/livingemoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="livingemoji" height="30" width="40" /></a>
+<a href="https://instagram.com/xander.lexa_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xander.lexa_4" height="30" width="40" /></a>
+</p>
 
-### 📌 **AI-Enabled Home Security System (Computer Vision)**  
-**Repo:** https://github.com/livingemoji/AI_enabled_home_security  
-- Motion detection + automated alert system  
-- Captures images of intruders and sends email notifications  
-- Tools: Python, OpenCV, NumPy
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingemoji&show_icons=true&locale=en&layout=compact" alt="livingemoji" /></p>
 
-### 📌 **Quantium Data Analysis & Visualization Starter Repo**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livingemoji&show_icons=true&locale=en" alt="livingemoji" /></p>
 
-**Repo:** https://github.com/livingemoji/quantium-starter-repo
-- Analyzes the impact of a price change on "Pink Morsel" product sales
-- Visualizes daily sales trends using an interactive Dash web application
-- Key Insight: Determines if revenue increased or decreased after the price hike on January 15, 2021
-- Tools: Python, pandas, Dash, Plotly, pytest
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-Python, JavaScript, Java, SQL
-
-### **Machine Learning & Data**
-pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Power BI
-
-### **Software Engineering**
-Node.js, Express.js, React, Java (Spring Boot), REST APIs, Docker, Git/GitHub
-
-### **Tools & Other Skills**
-Jupyter Notebook, Google Colab, Linux, Bash scripting, API integrations, system troubleshooting, Dash
-
----
-
-## 🎯 What I’m Focusing On
-- Building production-ready ML systems  
-- Improving backend engineering & software architecture  
-- Deepening knowledge in AI and automation  
-- Creating more data science & full-stack projects  
-
----
-
-## 📬 Connect With Me  
-- 🌐 LinkedIn: https://www.linkedin.com/in/wafulalex/  
-- 🧰 GitHub: https://github.com/livingemoji  
-- 📧 Email: **wafulalex4@gmail.com**
-
----
-
-⭐ *Thanks for visiting! Feel free to explore my repositories or collaborate with me on exciting AI and software projects.*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livingemoji&" alt="livingemoji" /></p>
