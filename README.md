@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://xander-zeta.vercel.app/images/WANYONYI%20ALEX%20WAFULA.pdf](https://xander-zeta.vercel.app/images/WANYONYI%20ALEX%20WAFULA.pdf)
 
-- ⚡ Fun fact **I can do all things using AI**
+- ⚡ Fun fact ** No fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
