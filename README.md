@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Fintech App](https://github.com/livingemoji/zedi.git)
 
-- 👨‍💻 All of my projects are available at [https://xander-zeta.vercel.app/](https://xander-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alexo.vercel.app/](https://alexo.vercel.app/)
 
 - 💬 Ask me about **Java script , Python.**
 
